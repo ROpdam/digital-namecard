@@ -1,4 +1,6 @@
 # Digital-Namecard
+A digital business card with downloadable contact details, can be found at: 
+https://ropdam.github.io/digital-namecard/
 
 ![plot](./assets/qr_code.png)
 
