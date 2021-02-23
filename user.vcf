@@ -3,12 +3,12 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Robin;Opdam;;;
 FN: Opdam  Robin 
-ORG:YGroup Companies;
-TITLE:Analyst, Data Science\nYGroup Companies
-EMAIL;type=INTERNET;type=WORK;type=pref:robin.opdam@ygroupcompanies.com
-TEL;type=WORK;type=VOICE:+31611920800
+ORG:Metyis;
+TITLE:Analyst, Data Science\nMetyis
+EMAIL;type=INTERNET;type=WORK;type=pref:robin.opdam@metyis.com
+TEL;type=WORK;type=VOICE:+31682993806
 item1.ADR;type=WORK;type=pref:;;Alpha Tower 7th & 8th floor\n De Entree\, 69;;;1101BH;Amsterdam
 item1.X-ABADR:com
-item2.URL;type=pref:www.ygroupcompanies.com
+item2.URL;type=pref:www.metyis.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
